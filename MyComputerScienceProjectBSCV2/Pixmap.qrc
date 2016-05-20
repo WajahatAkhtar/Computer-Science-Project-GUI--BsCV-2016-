@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="play">Main_player.png</file>
+        <file alias="point">Pointer.png</file>
+        <file alias="ball">ball3.png</file>
+        <file alias="clicktoplay">Clicktoplay.png</file>
+        <file alias="blueball">blueball.png</file>
+        <file alias="click">touchclick.png</file>
+        <file alias="touch">touch.png</file>
+        <file alias="tttt">images.jfif</file>
+        <file alias="rrrrr">hand-touch-detech-512.png</file>
+    </qresource>
+</RCC>
